@@ -1,0 +1,1 @@
+0.1986ms | {'iterations': 16, 'early_exit': True, 'sqrt_approx': None}
